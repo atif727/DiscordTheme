@@ -383,7 +383,7 @@
 
 .cozyMessage__9f4fd .contents_d3ae0d > .markup_a7e664:not(:empty, code) {
   background-color: var(--darkplus-bg2);
-  padding: -1 px;
+  padding: -5 px;
 }
 
 .markup_a7e664 blockquote,
